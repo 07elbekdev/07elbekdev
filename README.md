@@ -7,5 +7,5 @@
 
 - 📫 How to reach me --> **masrapovelbek24@gmail.com**
 
-- ⚡ Fun fact : **I think, I'm a best typer.**
+- ⚡ Fun fact : **I think, I'm the best typer ever**
 - My LeetCode account ---<<< **https://leetcode.com/Elbek_07/** >>>---
