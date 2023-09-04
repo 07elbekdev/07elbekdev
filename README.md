@@ -6,7 +6,7 @@
 
 - 📫 How to reach me --> **masrapovelbek24@gmail.com**
 
-- ⚡ Fun fact : **I think, I'm the best typer ever**
+- ⚡ Fun fact : **Love swimming and soccer**
 - My LeetCode account ---<<< **https://leetcode.com/Elbek_07/** >>>---
 <h3 align="left"></h3>
 <p align="left"><img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt style="max-width: 100%;">
